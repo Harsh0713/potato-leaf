@@ -21,7 +21,7 @@ With LeafGuard, you can make informed decisions about plant health, leading to b
 ![Screenshot 2024-08-15 100513](https://github.com/user-attachments/assets/869f7219-e576-43e9-b9f5-436c80f35c16)
 
 # Setup 
-* Download the zip folder unzip it and run these commnads **streamlit run interface.py**
+* Download the zip folder unzip it and run these commands **streamlit run interface.py**
 * The project will start running and the localhost link will be generated
 
 
